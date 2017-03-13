@@ -1,0 +1,23 @@
+{
+  "name": "backbone-blogroll",
+  "version": "1.0.0",
+  "description": "backbone.js learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrise2075/backbone-blogroll.git"
+  },
+  "keywords": [
+    "backbone",
+    "blogroll"
+  ],
+  "author": "sunrise2075",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrise2075/backbone-blogroll/issues"
+  },
+  "homepage": "https://github.com/sunrise2075/backbone-blogroll#readme"
+}
